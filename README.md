@@ -1,146 +1,119 @@
-
-<!--
-  README - EDUARDO
-  GAMING & TECHNOLOGY
-  THEME: BLACK + NEON YELLOW
--->
-
 <div align="center">
 
-<!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:665000,100:FFD600&height=220&section=header&text=EDUARDO&fontSize=75&fontColor=FFD600&fontAlignY=38&desc=GAMING%20%7C%20TECHNOLOGY%20%7C%20DEVELOPMENT&descAlignY=60&descSize=16&animation=fadeIn"/>
+<img width="100%" src="assets/banner.svg" alt="Banner do Eduardo"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Eduardo!;Estudante+de+Programa%C3%A7%C3%A3o+%F0%9F%92%BB;Aprendendo+C%23+e+Unity+%F0%9F%8E%AE;Futuro+Desenvolvedor+Front-end+%F0%9F%9A%80;CODE+%E2%80%A2+CREATE+%E2%80%A2+LEVEL+UP" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=620&lines=Estudante+de+Programa%C3%A7%C3%A3o+de+Jogos+Digitais;Aprendendo+C%23+e+Unity;Pronto+para+a+pr%C3%B3xima+aventura+%F0%9F%97%A1%EF%B8%8F;Rumo+a+Desenvolvedor+Front-end" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=EduardoWandermurem25&label=VISITANTES&color=FFD600&style=for-the-badge" alt="Visitantes"/>
-
-<br/><br/>
-
-<a href="https://github.com/EduardoWandermurem25">
-<img src="https://img.shields.io/badge/GITHUB-FFD600?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/EduardoWandermurem25"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFD600"/></a>
+<a href="https://www.linkedin.com/in/eduardo-rodrigues-wandemurem-055b60372"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFD600"/></a>
+<a href="https://www.instagram.com/eduardowandermurem25/"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FFD600"/></a>
 
 </div>
 
----
+<br/>
 
-<!-- ABOUT ME -->
+## 🗡️ Ficha do personagem
 
-# ⚡ 01 / SOBRE MIM
+| | |
+|---|---|
+| 🧑‍💻 **Nome** | Eduardo |
+| 🎓 **Classe** | Estudante de Programação de Jogos Digitais |
+| ⭐ **Nível** | Aprendiz em constante evolução |
+| 🛠️ **Equipamentos** | C# · Unity · VS Code · Git · GitHub |
+| 🧭 **Missão principal** | Tornar-me Desenvolvedor Front-end |
+| 🎒 **No inventário** | Curiosidade, café e muitos bugs para resolver |
 
-Olá! Eu sou **Eduardo**!
+> *"Cada linha de código é um novo nível desbloqueado."*
 
-Sou apaixonado por tecnologia, programação e pelo universo dos games.
+Sou apaixonado por tecnologia, programação e pelo universo dos games. Meu perfil é inspirado no clima de **Hora de Aventura**: bom humor, criatividade e vontade de explorar o desconhecido, uma linha de código por vez.
 
-🎓 Estudante de Técnico em Programação de Jogos Digitais.
+<br/>
 
-💻 Atualmente aprendendo C#.
+## 📈 Barras de XP
 
-🎮 Tenho interesse em desenvolvimento de jogos utilizando Unity.
+> Valores só para brincar e mostrar a evolução. Ajuste conforme você for subindo de nível.
 
-🚀 Meu objetivo é me tornar um Desenvolvedor Front-end.
+```text
+C#          ████████░░░░  Em evolução
+Unity       █████░░░░░░░  Explorando
+HTML        ██░░░░░░░░░░  Próxima fase
+CSS         █░░░░░░░░░░░  Próxima fase
+JavaScript  █░░░░░░░░░░░  Próxima fase
+```
 
-📚 Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+<br/>
 
-> "Cada linha de código é um novo nível desbloqueado."
+## 💻 Arsenal
 
----
+**Linguagem**
 
-<!-- TECHNOLOGIES -->
+<img src="https://skillicons.dev/icons?i=cs" height="48" alt="C#"/>
 
-# 💻 02 / TECNOLOGIAS
+**Ferramentas**
 
-### ⚙️ Linguagens de programação
+<img src="https://skillicons.dev/icons?i=unity,vscode,git,github" height="48" alt="Unity, VS Code, Git e GitHub"/>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="55" alt="C#"/>
-</div>
+**Desbloqueando em breve**
 
-### 🛠️ Ferramentas
+<img src="https://skillicons.dev/icons?i=html,css,js" height="48" alt="HTML, CSS e JavaScript"/>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,unity,git,github" height="55" alt="VS Code Unity Git GitHub"/>
-</div>
+<br/>
 
-### 🏆 TECH BADGES
-
-<div align="left">
-
-![C#](https://img.shields.io/badge/C%23-FFD600?style=for-the-badge&logo=csharp&logoColor=black)
-
-![Unity](https://img.shields.io/badge/UNITY-FFD600?style=for-the-badge&logo=unity&logoColor=black)
-
-![VS Code](https://img.shields.io/badge/VS_CODE-FFD600?style=for-the-badge&logo=visualstudiocode&logoColor=black)
-
-![Git](https://img.shields.io/badge/GIT-FFD600?style=for-the-badge&logo=git&logoColor=black)
-
-![GitHub](https://img.shields.io/badge/GITHUB-FFD600?style=for-the-badge&logo=github&logoColor=black)
-
-</div>
-
----
-
-<!-- GITHUB STATS -->
-
-# 📊 03 / ESTATÍSTICAS DO JOGADOR
+## 📊 Estatísticas do jogador
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoWandermurem25&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&title_color=FFD600&icon_color=FFD600"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoWandermurem25&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFD600&icon_color=FFD600&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoWandermurem25&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFD600&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoWandermurem25&layout=compact&theme=highcontrast&hide_border=true&title_color=FFD600"/>
+<img src="https://streak-stats.demolab.com?user=EduardoWandermurem25&hide_border=true&background=0D0D0D&ring=FFD600&fire=FFD600&currStreakLabel=FFD600&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFD600&dates=AAAAAA" alt="GitHub Streak"/>
 
 </div>
 
----
+<br/>
 
-# 🔥 04 / ATIVIDADE NO GITHUB
+## 🏆 Troféus
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=EduardoWandermurem25&theme=highcontrast&hide_border=true&ring=FFD600&fire=FFD600&currStreakLabel=FFD600" alt="GitHub Streak"/>
+<img src="https://github-profile-trophy.vercel.app/?username=EduardoWandermurem25&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Troféus"/>
 
 </div>
 
----
+<br/>
 
-<!-- PROJECTS -->
-
-# 🎮 05 / PROJETOS
+## 📉 Gráfico de atividade
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-EM_CONSTRUÇÃO-FFD600?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoWandermurem25&bg_color=0D0D0D&color=FFD600&line=FFD600&point=FFFFFF&area=true&area_color=FFD600&hide_border=true" width="100%" alt="Gráfico de atividade"/>
 
 </div>
 
-Ainda estou no começo da minha jornada como programador e atualmente estou estudando e desenvolvendo minhas habilidades.
+<br/>
 
-Meus primeiros projetos estão sendo preparados!
+## 🎮 Projetos
 
-### 🚀 O que pretendo desenvolver:
+Estou no início da jornada e meus primeiros projetos estão sendo forjados. Em breve eles aparecem aqui!
 
-- 🎮 Jogos utilizando C# e Unity.
-- 💻 Projetos de desenvolvimento Front-end.
-- 🌐 Sites e interfaces modernas.
-- ⚙️ Experimentos e aplicações para praticar programação.
+**Próximas quests:**
+
+- 🎮 Jogos com C# e Unity
+- 🌐 Sites e interfaces modernas
+- 💻 Projetos de Front-end
+- ⚙️ Experimentos para praticar programação
 
 <div align="center">
 
-<a href="https://github.com/EduardoWandermurem25?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORAR_REPOSITÓRIOS-FFD600?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/EduardoWandermurem25?tab=repositories"><img src="https://img.shields.io/badge/Ver_repositórios-FFD600?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 </div>
 
----
+<br/>
 
-<!-- CONTRIBUTIONS -->
-
-# 🐍 06 / MINHA JORNADA DE CONTRIBUIÇÕES
+## 🐍 Trilha de contribuições
 
 <div align="center">
 
@@ -148,58 +121,26 @@ Meus primeiros projetos estão sendo preparados!
 
 </div>
 
----
+<br/>
 
-<!-- GOALS -->
+## 🗺️ Mapa de missões
 
-# 🎯 07 / MISSÕES E OBJETIVOS
+- [x] Começar minha jornada na programação
+- [x] Aprender os fundamentos de C#
+- [ ] Aprofundar meus conhecimentos em Unity
+- [ ] Aprender HTML
+- [ ] Aprender CSS
+- [ ] Aprender JavaScript
+- [ ] Criar meus primeiros projetos Front-end
+- [ ] Construir meu portfólio
+- [ ] Me tornar Desenvolvedor Front-end
 
-- [x] Começar minha jornada na programação.
-- [x] Aprender os fundamentos de C#.
-- [ ] Aprofundar meus conhecimentos em Unity.
-- [ ] Aprender HTML.
-- [ ] Aprender CSS.
-- [ ] Aprender JavaScript.
-- [ ] Criar meus primeiros projetos Front-end.
-- [ ] Construir meu portfólio.
-- [ ] Me tornar Desenvolvedor Front-end.
-
----
-
-<!-- CONTACT -->
-
-# 📱 08 / CONECTE-SE COMIGO
+<br/>
 
 <div align="center">
 
-<a href="https://www.instagram.com/eduardowandermurem25/">
-<img src="https://img.shields.io/badge/INSTAGRAM-FFD600?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=520&lines=Obrigado+pela+visita!;Que+venha+a+pr%C3%B3xima+aventura!;Keep+coding+and+level+up!" alt="Footer animation"/>
 
-<a href="https://www.linkdin.com/in/eduardo-rodrigues-wandemurem-055b60372">
-<img src="https://img.shields.io/badge/LINKEDIN-FFD600?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/EduardoWandermurem25">
-<img src="https://img.shields.io/badge/GITHUB-FFD600?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
-</a>
-
-</div>
-
----
-
-<!-- FOOTER -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=500&lines=OBRIGADO+PELA+VISITA!;AT%C3%89+A+PR%C3%93XIMA+FASE!+%F0%9F%8E%AE;KEEP+CODING+AND+LEVEL+UP!" alt="Footer animation"/>
-
-<br/><br/>
-
-<h3>⚡ CODE • CREATE • LEVEL UP ⚡</h3>
-
-<p><i>"O futuro é construído com o código que escrevemos hoje."</i></p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD600,50:665000,100:050505&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD600,60:665000,100:0D0D0D&height=120&section=footer"/>
 
 </div>
