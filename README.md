@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/EduardoWandermurem25"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFD600"/></a>
-<a href="https://www.linkedin.com/in/eduardo-rodrigues-wandemurem-055b60372"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFD600"/></a>
+<a href="https://www.linkedin.com/in/eduardo-rodrigues-wandemurem-055b60372/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFD600"/></a>
 <a href="https://www.instagram.com/eduardowandermurem25/"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FFD600"/></a>
 
 </div>
