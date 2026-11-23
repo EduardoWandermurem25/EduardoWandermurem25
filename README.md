@@ -1,174 +1,205 @@
 
+<!--
+  README - EDUARDO
+  GAMING & TECHNOLOGY
+  THEME: BLACK + NEON YELLOW
+-->
+
 <div align="center">
 
-  <!-- BANNER PRINCIPAL -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,50:B8860B,100:FFD600&height=200&section=header&text=Eduardo&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20Programação&descAlignY=58&descSize=18" width="100%"/>
+<!-- BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:665000,100:FFD600&height=220&section=header&text=EDUARDO&fontSize=75&fontColor=FFD600&fontAlignY=38&desc=GAMING%20%7C%20TECHNOLOGY%20%7C%20DEVELOPMENT&descAlignY=60&descSize=16&animation=fadeIn"/>
 
-  <!-- ANIMAÇÃO DE TEXTO -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo!;Estudante+de+Programa%C3%A7%C3%A3o;Aprendendo+C%23+e+Unity;Futuro+Desenvolvedor+Front-end" alt="Typing SVG"/>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Eduardo!;Estudante+de+Programa%C3%A7%C3%A3o+%F0%9F%92%BB;Aprendendo+C%23+e+Unity+%F0%9F%8E%AE;Futuro+Desenvolvedor+Front-end+%F0%9F%9A%80;CODE+%E2%80%A2+CREATE+%E2%80%A2+LEVEL+UP" alt="Typing SVG"/>
 
-  <br/><br/>
+<br/>
 
-  <!-- CONTADOR DE VISITANTES -->
-  <img src="https://komarev.com/ghpvc/?username=EduardoWandermurem25&color=FFD600&style=for-the-badge&label=VISITANTES" alt="Visitantes"/>
+<img src="https://komarev.com/ghpvc/?username=EduardoWandermurem25&label=VISITANTES&color=FFD600&style=for-the-badge" alt="Visitantes"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <a href="https://github.com/EduardoWandermurem25">
-    <img src="https://img.shields.io/badge/GitHub-FFD600?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
+<a href="https://github.com/EduardoWandermurem25">
+<img src="https://img.shields.io/badge/GITHUB-FFD600?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </div>
 
 ---
 
-<!-- SOBRE MIM -->
+<!-- ABOUT ME -->
 
-## 👨‍💻 Sobre mim
+# ⚡ 01 / SOBRE MIM
 
-Olá! Meu nome é **Eduardo**! 👋
+Olá! Eu sou **Eduardo**!
 
-Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas no mundo da programação.
+Sou apaixonado por tecnologia, programação e pelo universo dos games.
 
-🎓 Atualmente sou estudante de Técnico em Programação de Jogos Digitais.
+🎓 Estudante de Técnico em Programação de Jogos Digitais.
 
-💻 Estou aprendendo C# e desenvolvendo meus conhecimentos em programação.
+💻 Atualmente aprendendo C#.
 
 🎮 Tenho interesse em desenvolvimento de jogos utilizando Unity.
 
-🚀 Meu principal objetivo é me tornar um **Desenvolvedor Front-end**.
+🚀 Meu objetivo é me tornar um Desenvolvedor Front-end.
 
-📚 Acredito que nunca devemos parar de aprender e evoluir!
+📚 Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+
+> "Cada linha de código é um novo nível desbloqueado."
 
 ---
 
-<!-- TECNOLOGIAS -->
+<!-- TECHNOLOGIES -->
 
-## 💻 Tecnologias e ferramentas
+# 💻 02 / TECNOLOGIAS
 
-### 📚 Linguagens de programação
+### ⚙️ Linguagens de programação
 
 <div align="left">
-
   <img src="https://skillicons.dev/icons?i=cs" height="55" alt="C#"/>
-
 </div>
 
-### 🛠️ Ferramentas que utilizo
+### 🛠️ Ferramentas
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,unity,git,github" height="55" alt="VS Code Unity Git GitHub"/>
+</div>
+
+### 🏆 TECH BADGES
 
 <div align="left">
 
-  <img src="https://skillicons.dev/icons?i=vscode,unity,git,github" height="55" alt="Ferramentas"/>
+![C#](https://img.shields.io/badge/C%23-FFD600?style=for-the-badge&logo=csharp&logoColor=black)
+
+![Unity](https://img.shields.io/badge/UNITY-FFD600?style=for-the-badge&logo=unity&logoColor=black)
+
+![VS Code](https://img.shields.io/badge/VS_CODE-FFD600?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+
+![Git](https://img.shields.io/badge/GIT-FFD600?style=for-the-badge&logo=git&logoColor=black)
+
+![GitHub](https://img.shields.io/badge/GITHUB-FFD600?style=for-the-badge&logo=github&logoColor=black)
 
 </div>
 
 ---
 
-<!-- ESTATÍSTICAS -->
+<!-- GITHUB STATS -->
 
-## 📊 Estatísticas do GitHub
+# 📊 03 / ESTATÍSTICAS DO JOGADOR
 
 <div align="center">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EduardoWandermurem25&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoWandermurem25&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&title_color=FFD600&icon_color=FFD600"/>
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoWandermurem25&layout=compact&theme=highcontrast&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoWandermurem25&layout=compact&theme=highcontrast&hide_border=true&title_color=FFD600"/>
 
 </div>
 
 ---
 
-<!-- ATIVIDADE -->
-
-## 🔥 Minha atividade
+# 🔥 04 / ATIVIDADE NO GITHUB
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=EduardoWandermurem25&theme=highcontrast&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=EduardoWandermurem25&theme=highcontrast&hide_border=true&ring=FFD600&fire=FFD600&currStreakLabel=FFD600" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-<!-- PROJETOS -->
+<!-- PROJECTS -->
 
-## 🚀 Meus projetos
-
-Ainda estou no começo da minha jornada como programador e, por enquanto, não tenho projetos publicados.
-
-Mas estou estudando, praticando e me preparando para compartilhar meus primeiros projetos em breve!
-
-**Em breve, novidades por aqui!** 🚀
+# 🎮 05 / PROJETOS
 
 <div align="center">
 
-  <a href="https://github.com/EduardoWandermurem25?tab=repositories">
-    <img src="https://img.shields.io/badge/MEUS%20REPOSITÓRIOS-FFD600?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
+<img src="https://img.shields.io/badge/STATUS-EM_CONSTRUÇÃO-FFD600?style=for-the-badge&logo=github&logoColor=black"/>
 
 </div>
 
----
+Ainda estou no começo da minha jornada como programador e atualmente estou estudando e desenvolvendo minhas habilidades.
 
-<!-- SNAKE ANIMATION -->
+Meus primeiros projetos estão sendo preparados!
 
-## 🐍 Minha jornada de contribuições
+### 🚀 O que pretendo desenvolver:
+
+- 🎮 Jogos utilizando C# e Unity.
+- 💻 Projetos de desenvolvimento Front-end.
+- 🌐 Sites e interfaces modernas.
+- ⚙️ Experimentos e aplicações para praticar programação.
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/EduardoWandermurem25/EduardoWandermurem25/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+<a href="https://github.com/EduardoWandermurem25?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORAR_REPOSITÓRIOS-FFD600?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </div>
 
 ---
 
-<!-- OBJETIVOS -->
+<!-- CONTRIBUTIONS -->
 
-## 🎯 Meus objetivos
+# 🐍 06 / MINHA JORNADA DE CONTRIBUIÇÕES
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/EduardoWandermurem25/EduardoWandermurem25/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+
+</div>
+
+---
+
+<!-- GOALS -->
+
+# 🎯 07 / MISSÕES E OBJETIVOS
 
 - [x] Começar minha jornada na programação.
 - [x] Aprender os fundamentos de C#.
 - [ ] Aprofundar meus conhecimentos em Unity.
-- [ ] Aprender HTML e CSS.
+- [ ] Aprender HTML.
+- [ ] Aprender CSS.
 - [ ] Aprender JavaScript.
-- [ ] Desenvolver projetos Front-end.
-- [ ] Construir um portfólio profissional.
+- [ ] Criar meus primeiros projetos Front-end.
+- [ ] Construir meu portfólio.
 - [ ] Me tornar Desenvolvedor Front-end.
 
 ---
 
-<!-- CONTATO -->
+<!-- CONTACT -->
 
-## 📱 Entre em contato comigo
+# 📱 08 / CONECTE-SE COMIGO
 
 <div align="center">
 
-  <a href="https://www.instagram.com/eduardowandermurem25/">
-    <img src="https://img.shields.io/badge/Instagram-FFD600?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
-  </a>
+<a href="https://www.instagram.com/eduardowandermurem25/">
+<img src="https://img.shields.io/badge/INSTAGRAM-FFD600?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
+</a>
 
-  <a href="https://www.linkdin.com/in/eduardo-rodrigues-wandemurem-055b60372">
-    <img src="https://img.shields.io/badge/LinkedIn-FFD600?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkdin.com/in/eduardo-rodrigues-wandemurem-055b60372">
+<img src="https://img.shields.io/badge/LINKEDIN-FFD600?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+</a>
 
-  <a href="https://github.com/EduardoWandermurem25">
-    <img src="https://img.shields.io/badge/GitHub-FFD600?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
-  </a>
+<a href="https://github.com/EduardoWandermurem25">
+<img src="https://img.shields.io/badge/GITHUB-FFD600?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+</a>
 
 </div>
 
 ---
 
-<!-- FRASE FINAL -->
+<!-- FOOTER -->
 
 <div align="center">
 
-  <h3>💛 Obrigado pela visita!</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=500&lines=OBRIGADO+PELA+VISITA!;AT%C3%89+A+PR%C3%93XIMA+FASE!+%F0%9F%8E%AE;KEEP+CODING+AND+LEVEL+UP!" alt="Footer animation"/>
 
-  <p><i>"O futuro é construído com o código que escrevemos hoje."</i></p>
+<br/><br/>
 
-  <h2>LEARN • CODE • CREATE</h2>
+<h3>⚡ CODE • CREATE • LEVEL UP ⚡</h3>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD600,50:B8860B,100:101010&height=120&section=footer" width="100%"/>
+<p><i>"O futuro é construído com o código que escrevemos hoje."</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD600,50:665000,100:050505&height=130&section=footer"/>
 
 </div>
