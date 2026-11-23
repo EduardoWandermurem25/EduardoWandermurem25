@@ -2,7 +2,7 @@
 
 <img width="100%" src="assets/banner.svg" alt="Banner do Eduardo"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=620&lines=Estudante+de+Programa%C3%A7%C3%A3o+de+Jogos+Digitais;Aprendendo+C%23+e+Unity;Pronto+para+a+pr%C3%B3xima+aventura+%F0%9F%97%A1%EF%B8%8F;Rumo+a+Desenvolvedor+Front-end" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=620&lines=Estudante+de+Programa%C3%A7%C3%A3o;Aprendendo+C%23+e+Unity;Rumo+a+Desenvolvedor+Front-end" alt="Typing SVG"/>
 
 <br/>
 
@@ -14,38 +14,28 @@
 
 <br/>
 
-## 🗡️ Ficha do personagem
+## Sobre mim
+
+Olá! Eu sou o **Eduardo**, apaixonado por tecnologia e programação.
+
+Sou estudante do **Técnico em Programação de Jogos Digitais** e estou construindo minha base em **C#** e **Unity**. Meu objetivo é me tornar **Desenvolvedor Front-end**, criando interfaces modernas e fáceis de usar.
+
+Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades um pouco a cada dia.
+
+<br/>
+
+## Foco atual
 
 | | |
 |---|---|
-| 🧑‍💻 **Nome** | Eduardo |
-| 🎓 **Classe** | Estudante de Programação de Jogos Digitais |
-| ⭐ **Nível** | Aprendiz em constante evolução |
-| 🛠️ **Equipamentos** | C# · Unity · VS Code · Git · GitHub |
-| 🧭 **Missão principal** | Tornar-me Desenvolvedor Front-end |
-| 🎒 **No inventário** | Curiosidade, café e muitos bugs para resolver |
-
-> *"Cada linha de código é um novo nível desbloqueado."*
-
-Sou apaixonado por tecnologia, programação e pelo universo dos games. Meu perfil é inspirado no clima de **Hora de Aventura**: bom humor, criatividade e vontade de explorar o desconhecido, uma linha de código por vez.
+| **Estudando** | C# e desenvolvimento com Unity |
+| **Próximo passo** | HTML, CSS e JavaScript |
+| **Objetivo** | Carreira como Desenvolvedor Front-end |
+| **Em andamento** | Primeiros projetos e portfólio |
 
 <br/>
 
-## 📈 Barras de XP
-
-> Valores só para brincar e mostrar a evolução. Ajuste conforme você for subindo de nível.
-
-```text
-C#          ████████░░░░  Em evolução
-Unity       █████░░░░░░░  Explorando
-HTML        ██░░░░░░░░░░  Próxima fase
-CSS         █░░░░░░░░░░░  Próxima fase
-JavaScript  █░░░░░░░░░░░  Próxima fase
-```
-
-<br/>
-
-## 💻 Arsenal
+## Tecnologias
 
 **Linguagem**
 
@@ -55,13 +45,23 @@ JavaScript  █░░░░░░░░░░░  Próxima fase
 
 <img src="https://skillicons.dev/icons?i=unity,vscode,git,github" height="48" alt="Unity, VS Code, Git e GitHub"/>
 
-**Desbloqueando em breve**
+**Próximos estudos**
 
 <img src="https://skillicons.dev/icons?i=html,css,js" height="48" alt="HTML, CSS e JavaScript"/>
 
 <br/>
 
-## 📊 Estatísticas do jogador
+## Progresso de estudos
+
+<div align="center">
+
+<img src="assets/skills.svg" width="720" alt="Progresso de estudos"/>
+
+</div>
+
+<br/>
+
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -74,17 +74,7 @@ JavaScript  █░░░░░░░░░░░  Próxima fase
 
 <br/>
 
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EduardoWandermurem25&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Troféus"/>
-
-</div>
-
-<br/>
-
-## 📉 Gráfico de atividade
+## Atividade
 
 <div align="center">
 
@@ -94,16 +84,16 @@ JavaScript  █░░░░░░░░░░░  Próxima fase
 
 <br/>
 
-## 🎮 Projetos
+## Projetos
 
-Estou no início da jornada e meus primeiros projetos estão sendo forjados. Em breve eles aparecem aqui!
+Estou no início da jornada e meus primeiros projetos estão sendo preparados. Em breve eles aparecem aqui.
 
-**Próximas quests:**
+**O que pretendo desenvolver:**
 
-- 🎮 Jogos com C# e Unity
-- 🌐 Sites e interfaces modernas
-- 💻 Projetos de Front-end
-- ⚙️ Experimentos para praticar programação
+- Jogos com C# e Unity
+- Sites e interfaces modernas
+- Projetos de Front-end
+- Experimentos para praticar programação
 
 <div align="center">
 
@@ -113,17 +103,7 @@ Estou no início da jornada e meus primeiros projetos estão sendo forjados. Em 
 
 <br/>
 
-## 🐍 Trilha de contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/EduardoWandermurem25/EduardoWandermurem25/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
-
-</div>
-
-<br/>
-
-## 🗺️ Mapa de missões
+## Objetivos
 
 - [x] Começar minha jornada na programação
 - [x] Aprender os fundamentos de C#
@@ -139,7 +119,7 @@ Estou no início da jornada e meus primeiros projetos estão sendo forjados. Em 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=520&lines=Obrigado+pela+visita!;Que+venha+a+pr%C3%B3xima+aventura!;Keep+coding+and+level+up!" alt="Footer animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=500&lines=Obrigado+pela+visita!;Vamos+construir+algo+legal+juntos." alt="Footer animation"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD600,60:665000,100:0D0D0D&height=120&section=footer"/>
 
